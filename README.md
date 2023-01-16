@@ -32,6 +32,9 @@ Každý týden 5 minutovka.
 
 ## Cvičení:
 1. [[Cvičení 1|Cvičení]]
-2. 
+2. [[Cvičení 2|Cvičení]]
+3. [[Cvičení 3|Cvičení]]
+4. [[Cvičení 4|Cvičení]]
+5. [[Cvičení 5|Cvičení]]
 
 

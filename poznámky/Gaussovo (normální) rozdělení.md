@@ -1,9 +1,9 @@
 ### GAUSSOVO (NORMÁLNÍ) ROZDĚLENÍ:
 Řekneme, že náhodná veličina $X$ má normální (Gaussovo) rozdělení s parametry $𝜇 \in 𝑅$, 𝜎 2 > 0 , jestliže její hustota pravděpodobnosti má tvar: 
 $$
-f_X(x) = \frac{1}{\sqrt{2𝜋𝜎^2}} 𝑒^{-\frac{ (x-𝜇)^2}{2𝜎^2}}
+f_X(x) = \frac{1}{\sqrt{2\pi\sigma^2}} 𝑒^{-\frac{ (x-\mu)^2}{2\sigma^2}}
 $$
-Značíme $𝑋\sim𝑁(𝜇, 𝜎^2)$. Distribuční funkci nelze vyjádřit analyticky pomocí základních funkcí. $𝐹_𝑋(𝑥) = 𝑒𝑟𝑓(𝑥)$ .
+Značíme $X\sim N(\mu, \sigma^2)$. Distribuční funkci nelze vyjádřit analyticky pomocí základních funkcí. $𝐹_𝑋(𝑥) = 𝑒𝑟𝑓(𝑥)$ .
 
 ## PDF
 ![PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/640px-Normal_Distribution_PDF.svg.png)

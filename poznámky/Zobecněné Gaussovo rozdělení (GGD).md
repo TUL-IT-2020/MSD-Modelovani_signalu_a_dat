@@ -1,7 +1,7 @@
 # ZOBECNĚNÉ GAUSSOVO ROZDĚLENÍ (GGD):
 Řekneme, že náhodná veličina X má zobecněné normální (Gaussovo) rozdělení s parametry 𝜇 ∈ 𝑅, 𝛼, 𝛽 > 0 , jestliže její hustota pravděpodobnosti má tvar:
 $$
-f_X(a) = \frac{1}{2\alpha Γ(\frac{1}{\beta})} 𝑒^{−\frac{ (x-𝜇)^\beta}{\alpha}}
+f_X(a) = \frac{1}{2\alpha \Gamma(\frac{1}{\beta})} 𝑒^{-\frac{ (x-\mu)^\beta}{\alpha}}
 $$
 Značíme: $𝑋\sim GGD(𝜇, 𝛼, 𝛽)$.
 ## PDF

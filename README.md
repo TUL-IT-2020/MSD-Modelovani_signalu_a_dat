@@ -10,7 +10,10 @@ Každý týden 5 minutovka.
 [Scripta v knihovně](https://knihovna-opac.tul.cz/records/dadfa210-84b1-48ea-95a1-4cfc3f4c42fb)
 
 ## Přednášky
-1. [[MSD1.pdf]]
+1. [[MSD1.pdf]] 
+	-  [[Náhodná veličina]] 
+	- [[pravděpodobnost]] 
+	- [[Distribuční funkce]] 
 2. [[MSD2.pdf]]
 3. [[MSD3.pdf]]
 4. [[MSD4.pdf]]

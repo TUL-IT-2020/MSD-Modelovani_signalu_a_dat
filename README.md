@@ -11,9 +11,13 @@ Každý týden 5 minutovka.
 
 ## Přednášky
 1. [[MSD1.pdf]] 
-	-  [[Náhodná veličina]] 
+	- [[Náhodná veličina]] 
 	- [[pravděpodobnost]] 
 	- [[Distribuční funkce]] 
+	- [[Hustota pravděpodobnosti]]
+	- [[Střední hodnota a rozptyl]]
+	- [[Sdružená hustota pravděpodobnosti]]
+	- [[Statistická závislost a nezávislost]]
 2. [[MSD2.pdf]]
 3. [[MSD3.pdf]]
 4. [[MSD4.pdf]]
@@ -25,5 +29,9 @@ Každý týden 5 minutovka.
 10. [[MSD10.pdf]]
 11. [[MSD11.pdf]]
 12. [[MSD12.pdf]]
+
+## Cvičení:
+1. [[Cvičení 1|Cvičení]]
+2. 
 
 

@@ -1,0 +1,2 @@
+## Diskrétní náhodné veličiny
+Veličina $X$ má diskrétní rozdělení, jestliže její obor hodnot $H$ má spočetně mnoho prvků, tj. $\sum_{𝑥_𝑘\in𝐻} 𝑃[𝑋 = 𝑥_𝑘] = 1$. Funkci $𝑃[𝑋 = 𝑥]$ nazveme pravděpodobnostní funkcí náhodné veličiny $X$.

@@ -1,7 +1,9 @@
 # Hustota pravděpodobnosti
 ## Absolutně spojité náhodné veličiny
 ### Definice: 
-Náhodná veličina $X$ má absolutně spojité rozdělení (ASR), jestliže existuje nezáporná reálná funkce $𝑓_𝑋(𝑥)$ taková, že pro každé $𝑥 \in 𝑅$ platí $𝐹_𝑋(𝑥) = \int^x_{−\infty} {𝑓_𝑋(𝑡) 𝑑𝑡}$ . Funkci $𝑓_𝑋(𝑥)$ nazýváme **hustotou pravděpodobnosti** náhodné veličiny $X$.
+Náhodná veličina $X$ má absolutně spojité rozdělení (ASR), jestliže existuje nezáporná reálná funkce $𝑓_𝑋(𝑥)$ taková, že pro každé $𝑥 \in 𝑅$ platí:
+$$𝐹_𝑋(𝑥) = \int^x_{−\infty} {𝑓_𝑋(𝑡) \; dt}$$ 
+Funkci $𝑓_𝑋(𝑥)$ nazýváme **hustotou pravděpodobnosti** náhodné veličiny $X$.
 
 ### Základní vlastnosti: 
 Pro $X$ mající ASR platí:

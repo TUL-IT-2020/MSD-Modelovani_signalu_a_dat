@@ -25,6 +25,7 @@ Každý týden [[5. minutovky|5-minutovka]].
 	- [[Metoda Monte Carlo]]
 	- [[Statistika]]
 3. [[MSD3.pdf]]
+	- [[Teorie odhadů]]
 4. [[MSD4.pdf]]
 5. [[MSD5.pdf]]
 6. [[MSD6.pdf]]

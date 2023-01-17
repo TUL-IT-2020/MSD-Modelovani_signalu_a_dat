@@ -15,8 +15,15 @@ Pro [[Střední hodnota a rozptyl#Střední hodnota|střední hodnoty]] platí: 
 
 - Díky tomuto pravidlu můžeme používat operátor střední hodnoty aniž bychom konkrétně uváděli podle které hustoty pravděpodobnosti (distribuční funkce) se počítá.
 
-## Příklad: 
+## Příklady: 
 1. $𝑌 = 𝑎 + 𝑏𝑋$, kde $X\sim N(0,1)$. Jaká je hustota pravděpodobnosti $𝑓_𝑌(𝑦)$?
+2. Součet dvou [[Statistická závislost a nezávislost|nezávislých]] [[Gaussovo (normální) rozdělení|normálně rozdělených]] náhodných veličin (a naopak?)
+3. Jak generovat náhodnou veličinu s [[Cauchyho rozdělení|Cauchyho rozdělení]]?
+$$
+X = F^{-1}_X, \; kde \; Y \sim U(0,1)
+$$
 
-### Výsledek:
+### Výsledky:
 1. $Y \sim N(a,b^2)$
+2. $Z = X + Y \quad \sim N(\mu_x + \mu_y,\sigma_x^2 + \sigma_y^2)$
+3. $X = \tan (\pi y - \frac 1 2 \pi)$

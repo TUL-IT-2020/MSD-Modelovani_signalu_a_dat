@@ -14,10 +14,11 @@ Nezávislé veličiny, které mají stejnou hustotu pravděpodobnosti (=stejné 
 	- $A$ - padne sudé číslo 
 	- $B$ - padne číslo nepřevyšující 2. 
 	- Jsou jevy A a B nezávislé? 
-2. Upravme si drobně zadání, a uvažujme jev 
+2. Upravme si drobně zadání, a uvažujme jev: 
 	- $A$ - padne sudé číslo 
 	- $B$ - padne číslo nepřevyšující 3. 
 	- Jsou jevy A a B i nyní nezávislé?
 
+### Odpovědi:
 1. Jsou nezávislé
 2. Jsou závislé

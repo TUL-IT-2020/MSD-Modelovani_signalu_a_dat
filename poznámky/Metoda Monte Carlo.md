@@ -1,5 +1,5 @@
 # Metoda Monte Carlo
-Algoritmy/metody pro simulace systémů s náhodnými daty podle konkrétního náhodného modelu. Základní cíl: určení [[Střední hodnota a rozptyl#Střední hodnota|střední hodnoty]] náhodné veličiny, která je výsledkem náhodného děje. Generováním pseudonáhodných čísel se vytvoří potřebný počet pozorování, ze kterého se vypočte vybraná statistika.
+Algoritmy/metody pro simulace systémů s náhodnými daty podle konkrétního náhodného modelu. Základní cíl: určení [[Střední hodnota a rozptyl#Střední hodnota|střední hodnoty]] náhodné veličiny, která je výsledkem náhodného děje. Generováním pseudonáhodných čísel se vytvoří potřebný počet pozorování, ze kterého se vypočte vybraná [[Statistika|statistika]].
 
 ## Příklady:
 - Výpočet určitého integrálu. 

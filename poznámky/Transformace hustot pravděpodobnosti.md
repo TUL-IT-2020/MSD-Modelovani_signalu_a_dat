@@ -3,7 +3,7 @@ Uvažujme [[Náhodná veličina|náhodnou veličinu]] $X$, a z ní vytvořme ná
 
 Nechť $X$ je [[Hustota pravděpodobnosti#Absolutně spojité náhodné veličiny|spojitá náhodná veličina]], $ℎ ∶ 𝑅 → 𝑅$ ryze monotónní funkce na množině $X(\ohm)$ a $h^{-1}$ je diferencovatelná. Potom náhodná veličina $Y = h(X)$ má [[Hustota pravděpodobnosti|hustotu pravděpodobnosti]]:
 $$
-f_Y(y)=f_X \left( h^{-1} (y) \right) \left| \frac{dh^{-1}}{dy}(y) \right| 
+f_Y(y)=f_X \left( h^{-1} (y) \right) \left| \frac{dh^{-1}(y)}{dy} \right| 
 $$
 a navíc
 $$

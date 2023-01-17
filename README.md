@@ -19,6 +19,10 @@ Každý týden [[5. minutovky|5-minutovka]].
 	- [[Sdružená hustota pravděpodobnosti]]
 	- [[Statistická závislost a nezávislost]]
 2. [[MSD2.pdf]]
+	- [[Transformace hustot pravděpodobnosti]]
+	- [[Zákon velkých čísel]]
+	- [[Centrální limitní věta]]
+	- [[Metoda Monte Carlo]]
 3. [[MSD3.pdf]]
 4. [[MSD4.pdf]]
 5. [[MSD5.pdf]]
@@ -38,4 +42,4 @@ Každý týden [[5. minutovky|5-minutovka]].
 5. [[Cvičení 5|Cvičení]]
 
 ## Zdroje:
-Tento repositář odkazuje na dokumenty z [TUL-SZZ](https://github.com/elPytel/TUL-SZZ), který je nutné stáhnout a umístit do kořenového adresáře Obsidianu pro správnou funkčnost. 
+Tento repositář odkazuje na dokumenty z [TUL-SZZ](https://github.com/elPytel/TUL-SZZ), který je nutné stáhnout a umístit do kořenového adresáře [Obsidianu](https://obsidian.md/) pro správnou funkčnost. 

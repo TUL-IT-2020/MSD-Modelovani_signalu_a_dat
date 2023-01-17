@@ -13,4 +13,4 @@ Neboli: Náhodná veličina X je reálná funkce definovaná na množině všech
 - Pokus = hod 2 kostkami, pak $\omega \in \Omega = \{(𝑖,𝑗) |𝑖 = 1, … 6; 𝑗 = 1, … 6; 𝑖 \leq 𝑗 \}$. 𝑋 je rovna součtu padlých hodnot. Obor náhodné veličiny je {2, 3, … , 12} , jelikož např. 𝑋(1,1) = 2.
 
 [[Diskrétní náhodné veličiny]]
-[[Hustota pravděpodobnosti|Spojité náhodné veličiny]]
+[[Hustota pravděpodobnosti#Absolutně spojité náhodné veličiny|Spojité náhodné veličiny]]

@@ -1,3 +1,4 @@
+#cvičení
 # Cvičení 3
 1. Generujte pozorování z [[Cauchyho rozdělení|Cauchyho rozdělení]] a pokuste se odhadnout [[Střední hodnota a rozptyl#Střední hodnota (Expected value)|střední hodnotu]]. 
 2. Je odhad $\hat \sigma^2 = \frac{1} {n} \sum^{n}_{i=1} (X_i - \mu)^2$ nestranný, pokud $X_i\sim N(𝜇, 𝜎^2)$ , kde: 

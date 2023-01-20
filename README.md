@@ -27,7 +27,11 @@ Každý týden [[5. minutovky|5-minutovka]].
 3. [[MSD3.pdf]]
 	- [[Teorie odhadů]]
 4. [[MSD4.pdf]]
+	-  [[Věrohodnost-Rozptyl_odhadu]]
+	- [[Rao-Cramérova dolní mez|Skalární Rao-Cramérova dolní mez]]
 5. [[MSD5.pdf]]
+	- [[Vektorová náhodná veličina]]
+	- [[Vícerozměrné normální rozdělení]]
 6. [[MSD6.pdf]]
 7. [[MSD7.pdf]]
 8. 

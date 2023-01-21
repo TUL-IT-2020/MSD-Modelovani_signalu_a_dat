@@ -1,17 +1,17 @@
 # Vícerozměrné normální rozdělení
 Sdružená hustota pravděpodobnosti náhodné [[Vektorová náhodná veličina|vektorové veličiny]] $X = (X_1, ..., X_n)^T$ mající [[Gaussovo (normální) rozdělení|Normální rozdělení]]:
 $$
-f_X(x) = \frac{1}{(2\pi)^{\frac{N}{2}} \left(det(\sum)\right)^{\frac{1}{2}}} e^{-\frac{1}{2} (x-\mu)^T\sum^{-1}(x-\mu)}
+f_X(x) = \frac{1}{(2\pi)^{\frac{N}{2}} \left(det(\Sigma)\right)^{\frac{1}{2}}} e^{-\frac{1}{2} (x-\mu)^T\Sigma^{-1}(x-\mu)}
 $$
 $\mu = (\mu_1, \mu_2, ..., \mu_N)^T = E[(X_1,X_2,...,X_N)^T]$
-$\sum = E[(X-\mu)(X-\mu)^T]$
+$\Sigma = E[(X-\mu)(X-\mu)^T]$
 
 Pro vektor dimenze 2 je pak hustota:
 $$
-f_{X,Y}(x,y) = \frac{1}{2\pi} \frac{1}{\sqrt{det(\sum)}} e^{-\frac{1}{2} (x-\mu)^T\sum^{-1}(x-\mu)}
+f_{X,Y}(x,y) = \frac{1}{2\pi} \frac{1}{\sqrt{det(\Sigma)}} e^{-\frac{1}{2} (x-\mu)^T\Sigma^{-1}(x-\mu)}
 $$
 $$
-\sum 
+\Sigma 
 = \begin{pmatrix}
 E[(X-\mu_x)^2] & E[(X-\mu_x)(Y-\mu_y)]\\\ 
 E[(X-\mu_x)(Y-\mu_y)] & E[(Y-\mu_y)^2]

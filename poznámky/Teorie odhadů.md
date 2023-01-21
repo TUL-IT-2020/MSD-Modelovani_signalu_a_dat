@@ -26,3 +26,23 @@ Pro ten platí:
 • Nemusí vždy existovat,
 • Pokud existuje, může být obtížné ho najít,
 • Rozptyl nestranného odhadu nemůže být menší než [[Rao-Cramérova dolní mez|Cramérova-Raova dolní mez (CRLB)]]
+
+## Vektorově
+Odhadovaný parametr:
+$$
+\theta
+= \begin{pmatrix}
+\theta_1 \\\ 
+... \\\ 
+\theta_d 
+\end{pmatrix}
+$$
+Např. $\theta = \begin{pmatrix} \mu \\\ \sigma^2 \end{pmatrix}$, tedy parametry Normálního rozdělení, nebo odhad kovarianční matice, lineární regrese. Už jsme viděli, že nestranný odhad $\sigma^2$ se liší v případech, kdy (ne)známe skutečnou hodnotu parametru $\mu$.
+1. Známe $\mu$:
+$$
+\hat\sigma^2 = \frac{1}{N} \sum^N_{i=1} {(X_i - \mu)^2}
+$$
+2. Neznáme $\mu$ a nahradíme ho výběrovým průměrem:
+$$
+\hat\sigma^2 = \frac{1}{N-1} \sum^N_{i=1} {(X_i - \bar X_N)^2}
+$$

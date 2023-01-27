@@ -52,6 +52,9 @@ Každý týden [[5. minutovky|5-minutovka]].
 4. [[Cvičení 4|Cvičení]]
 5. [[Cvičení 5|Cvičení]]
 6. [[Cvičení 6|Cvičení]]
+7. [[Cvičení 7|Cvičení]]
+
+
 
 ## Zdroje:
 Tento repositář odkazuje na dokumenty z [TUL-SZZ](https://github.com/elPytel/TUL-SZZ), který je nutné stáhnout a umístit do kořenového adresáře *"vaultu"* [Obsidianu](https://obsidian.md/) pro správnou funkčnost. 

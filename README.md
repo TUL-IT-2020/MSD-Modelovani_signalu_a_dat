@@ -38,12 +38,16 @@ Každý týden [[5. minutovky|5-minutovka]].
 	- [[Rao-Cramérova dolní mez#Vektorově|Rao-Cramérova dolní mez]]
 6. [[MSD6.pdf]]
 	- [[Lineární model]] 
-1. [[MSD7.pdf]]
-2. 
-3. [[MSD9.pdf]]
-4. [[MSD10.pdf]]
-5. [[MSD11.pdf]]
-6. [[MSD12.pdf]]
+7. [[MSD7.pdf]]
+	-  [[Metoda maximální věrohodnosti]]
+8. 
+9. [[MSD9.pdf]]
+	- [[Bayesovská statistika]]
+10. [[MSD10.pdf]]
+	-  [[Volba apriorní hustoty]]
+	-  [[Bayesovská statistika#Metody Bayesovských odhadů|Metody bayesovských odhadů]]
+11. [[MSD11.pdf]]
+12. [[MSD12.pdf]]
 
 ## Cvičení:
 1. [[Cvičení 1|Cvičení]]
@@ -53,11 +57,13 @@ Každý týden [[5. minutovky|5-minutovka]].
 5. [[Cvičení 5|Cvičení]]
 6. [[Cvičení 6|Cvičení]]
 7. [[Cvičení 7|Cvičení]]
+8. 
+9.  [[Cvičení 9|Cvičení]]
+10. [[Cvičení 10|Cvičení]]
 
 
-
-## Uzitečné odkazy:
-[Jednoduché vysvětlení statistiky a zpracování signálů (random processes)](https://www.probabilitycourse.com)
+## Užitečné odkazy:
+Jednoduché vysvětlení statistiky a zpracování signálů: [random processes](https://www.probabilitycourse.com)
 
 ## Zdroje:
 Tento repositář odkazuje na dokumenty z [TUL-SZZ](https://github.com/elPytel/TUL-SZZ), který je nutné stáhnout a umístit do kořenového adresáře *"vaultu"* [Obsidianu](https://obsidian.md/) pro správnou funkčnost. 

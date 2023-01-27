@@ -56,5 +56,8 @@ Každý týden [[5. minutovky|5-minutovka]].
 
 
 
+## Uzitečné odkazy:
+[Jednoduché vysvětlení statistiky a zpracování signálů (random processes)](https://www.probabilitycourse.com)
+
 ## Zdroje:
 Tento repositář odkazuje na dokumenty z [TUL-SZZ](https://github.com/elPytel/TUL-SZZ), který je nutné stáhnout a umístit do kořenového adresáře *"vaultu"* [Obsidianu](https://obsidian.md/) pro správnou funkčnost. 

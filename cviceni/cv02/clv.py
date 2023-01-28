@@ -6,13 +6,26 @@ import matplotlib.pyplot as plt
 M = 10000
 N = 100
 x = np.arange(M)
-array = np.zeros(M)
+
+# Vlasostit rozdělení
+mu = 1/2    
+G2 = 1/12   # sigma^2
+
+# Výpočet průměru z N rovnoměrných rozdělení
+mean_value = np.zeros(M)
 for i in range(M):
-    array[i] = np.sum(np.random.rand(N))
+    mean_value[i] = np.sum(np.random.rand(N)) - N*mu
 
-u = 1/2
-G = 1/12
-array = (array - N*u)/np.sqrt(N)/np.sqrt(G)
+# Vzorec ze skript: Centrální limitní věta
+array = mean_value / (np.sqrt(N) * np.sqrt(G2))
 
+# Vykreslení histogramu
 plt.hist(array, bins=50)
 plt.show()
+
+# Výsledek: Gausovka (0,1) 
+print("Expected value: ", 0)
+print("Variance: \t", 1)
+print()
+print("Mean value: \t", np.mean(array))
+print("Variance: \t", np.var(array))

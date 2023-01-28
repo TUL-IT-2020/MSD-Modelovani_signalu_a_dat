@@ -1,3 +1,7 @@
+clc;
+close all;
+clear all;
+
 % 3.
 % Normal distribution(1,1)
 G = 1;

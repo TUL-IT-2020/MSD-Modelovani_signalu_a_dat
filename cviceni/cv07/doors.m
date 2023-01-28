@@ -1,5 +1,7 @@
-clear all
-clc
+clc;
+close all;
+clear all;
+
 n_doors = 3;
 
 prvni = 0;

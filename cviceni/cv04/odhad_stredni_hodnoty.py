@@ -9,6 +9,9 @@ i = np.arange(n)
 
 plt.plot(i, x)
 plt.show()
+
+print("Mean value:")
+
 print(2*np.mean(x))
 print(2*np.median(x))
 print(np.max(x))

@@ -5,3 +5,6 @@
 3. Matlab: Vykreslete křivku hustoty pravděpodobnosti náhodné veličiny $X\sim N(1,1)$ a vygenerujte $N = 1000$ [[Statistická závislost a nezávislost|i.i.d.]] samplů a zobrazte jejich histogram. Stejně tak pro $Y\sim U(0,3)$. 
 4. Babička mi v průměru posílá 5 SMS zpráv za rok. Jaká je pravděpodobnost, že mi jich příští rok pošle 6? A jaká, že maximálně 4? Ukažte na tomto příkladu, že [[Poissonovo rozdělení]] aproximuje [[Binomické rozdělení|Binomické]] pro velká n (n=365). 
 5. Matlab: Trefujte klávesu vždy na sudé vteřině a měřte odchylku, opakujte např. 50 krát. Pak vykreslete histogram odchylek a srovnejte s [[Gaussovo (normální) rozdělení|Normálním rozdělením]].
+
+## Řešení
+2. [[úloha 1.pdf|úkol]]

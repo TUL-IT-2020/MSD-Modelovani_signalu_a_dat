@@ -1,7 +1,17 @@
 # MSD - Modelování signálů a dat
+
+2 absence povoleny
+
 ## Zkouška 
 teorie, ústní
-2 absence
+
+Povolen tahák: 
+- poznámky
+- učebnice
+- internet
+
+Matlab
+
 
 ## 5-minutovky
 Každý týden [[5. minutovky|5-minutovka]].

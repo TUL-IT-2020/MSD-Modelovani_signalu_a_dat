@@ -1,3 +1,4 @@
+#cvičení
 # Cvičení 7
 1. Spočtěte MLE odhad střední hodnoty Normálního rozdělení.
 2. Odhadněte parametr $\mu$ z dat, která mají rozdělení s hustotu pravděpodobnosti:

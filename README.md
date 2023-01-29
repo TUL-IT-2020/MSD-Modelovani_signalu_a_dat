@@ -61,7 +61,6 @@ Každý týden [[5. minutovky|5-minutovka]].
 9.  [[Cvičení 9|Cvičení]]
 10. [[Cvičení 10|Cvičení]]
 
-
 ## Užitečné odkazy:
 Jednoduché vysvětlení statistiky a zpracování signálů: [random processes](https://www.probabilitycourse.com)
 

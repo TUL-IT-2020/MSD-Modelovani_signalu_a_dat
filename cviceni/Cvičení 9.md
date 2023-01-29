@@ -1,3 +1,4 @@
+#cvičení
 # Cvičení 9
 1. Simulujte Monty Hallův problém pomocí MC. Potvrzuje se teoretický výsledek?
 2. Dokažte, že jsou nezávislé:
